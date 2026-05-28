@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.emoji-font {
+  font-family: "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji", "Android Emoji", emoji, sans-serif !important;
+}

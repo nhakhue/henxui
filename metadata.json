@@ -1,0 +1,6 @@
+{
+  "name": "Vòng Quay HenXui",
+  "description": "Vòng quay may mắn đa năng dành cho các nhóm bạn, quán bar và pub - Mở ra là biết chơi ngay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
